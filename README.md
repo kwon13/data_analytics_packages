@@ -1,4 +1,4 @@
-# Numpy, Pandas, Matplotlib
+# Numpy, Pandas, Matplotlib 📁
 데이터 분석, 머신러닝에 요긴한 3개의 패키지들을 정리하였습니다!
 
 ## Numpy
