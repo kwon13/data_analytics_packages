@@ -1,5 +1,5 @@
-# Numpy, Pandas, Matplotlib 📁
-데이터 분석, 머신러닝에 요긴한 3개의 패키지들을 정리하였습니다!
+# Numpy, Pandas, Matplotlib, Seaborn 📁
+데이터 분석, 머신러닝에 요긴한 패키지들을 정리하였습니다!
 
 ## Numpy
 ```text
@@ -63,6 +63,16 @@ Matplotlib이란 python에서 데이터를 효과적으로 시각화 하기 위�
 5. 원 그래프(pie)
 - 데이터가 차지하고 있는 비율을 알아볼 떄 유용한 원 그래프를 그려봅시다
 ```
+## Seaborn
+```text
+Seaborn은 그래프를 그려주는 패키지입니다  
+matplotlib보다 더 다양한 기능을 제공하고 있어 알아두면 좋은 패키지입니다
 
+1. 1차원 분포 플롯
+
+2. 다차원 분포 플롯
+
+3. 꾸미기
+```
 Jupyter Notebook 또는 구글Colaboratory를 이용해주세요  
 구글Colaboratory 링크: https://colab.research.google.com
